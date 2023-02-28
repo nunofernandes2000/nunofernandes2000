@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Nuno Fernandes.<br>📜 I’m currently studying Software Engineer.
+Hi! I'm Nuno Fernandes.<br>📜 I’m currently studying Software Engineer.<br>📜 I’m working on A MatosCar as Software Engineer
 
 
 ## 🌐 Socials:
