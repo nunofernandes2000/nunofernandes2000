@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Nuno Fernandes.<br>📜 I’m currently studying Software Engineer.<br>💻 I’m working on A MatosCar as Full-Stack Developer 
+Hi! I'm Nuno Fernandes.<br>📜 I’m currently studying Software Engineer.<br>💻 I was an ex-intern at A MatosCar as a Full-Stack Developer. 
 
 
 ## 🌐 Socials:
