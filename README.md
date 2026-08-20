@@ -51,10 +51,10 @@ Final-year Computer Engineering student at Instituto Politécnico de Portalegre 
 
 ### 🚀 Featured Projects
 
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Sistema de Gestão por Checkpoints](https://github.com/nunofernandes2000)** | Full-stack platform built with layered architecture (Domain, Services, REST), automated tests, and interactive React dashboards for academic tracking[cite: 1]. | `Java` `Spring Boot` `React` `JPA` `REST`[cite: 1] |
-| **[Pac-Man 2D](https://github.com/nunofernandes2000)** | 2D arcade game recreation featuring custom OpenGL primitive rendering, input control, and real-time collision handling[cite: 1]. | `C/C++` `OpenGL` `FreeGLUT`[cite: 1] |
-| **[Android School Gest](https://github.com/nunofernandes2000)** | Native Android mobile application for school administration (students, classes, subjects) with local data persistence[cite: 1]. | `Java` `Android SDK` `SQLite`[cite: 1] |
-| **[SOD Guess Game](https://github.com/nunofernandes2000)** | Distributed client-server multiplayer system implementing TCP/IP sockets, multithreaded connection handling, and state synchronization[cite: 1]. | `Java` `Sockets TCP/IP` `Multithreading`[cite: 1] |
-| **[Censos App Android](https://github.com/nunofernandes2000)** | Native mobile survey application developed for field data collection, validation, and statistical analysis[cite: 1]. | `Java` `Android SDK` `SQLite`[cite: 1] |
+| Project | Description | Tech Stack | Links |
+| :--- | :--- | :--- | :--- |
+| **Sistema de Gestão por Checkpoints** | Full-stack platform built with layered architecture (Domain, Services, REST), automated tests, and interactive React dashboards for academic tracking[cite: 1]. | `Java` `Spring Boot` `React` `JPA` `REST`[cite: 1] | [Backend](https://github.com/nunofernandes2000/spring) • [Frontend](https://github.com/nunofernandes2000/react) |
+| **Pac-Man 2D** | 2D arcade game recreation featuring custom OpenGL primitive rendering, input control, and real-time collision handling[cite: 1]. | `C/C++` `OpenGL` `FreeGLUT`[cite: 1] | [Code](https://github.com/nunofernandes2000/Paint) |
+| **Android School Gest** | Native Android mobile application for school administration (students, classes, subjects) with local SQLite data persistence[cite: 1]. | `Java` `Android SDK` `SQLite`[cite: 1] | [Code](https://github.com/nunofernandes2000/Android_School_Gest) |
+| **SOD Guess Game** | Distributed client-server multiplayer system implementing TCP/IP sockets, multithreaded connection handling, and state synchronization[cite: 1]. | `Java` `Sockets TCP/IP` `Multithreading`[cite: 1] | [Code](https://github.com/nunofernandes2000/SOD_GUESSGAME_PROJETO) |
+| **Censos App Android** | Native mobile survey application developed for field data collection, validation, and statistical analysis[cite: 1]. | `Java` `Android SDK` `SQLite`[cite: 1] | [Code](https://github.com/nunofernandes2000/Censos_App-Android-Studio) |
