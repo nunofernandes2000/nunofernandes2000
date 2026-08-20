@@ -10,7 +10,7 @@ Experienced in building full-stack web and backend applications. Passionate abou
 - 🎓 **Education:** Pursuing a degree in Computer / Software Engineering.
 - 💼 **Experience:** Former Full-Stack Developer Intern at **A MatosCar**.
 - 🛠️ **Focus Areas:** Full-Stack Web Development, System Architecture & Database Design.
-- 📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/nuno-fernandes-164910238/) • [Email](mailto:teu-email@dominio.com)
+- 📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/nuno-fernandes-164910238/)
 
 ---
 
@@ -43,9 +43,10 @@ Experienced in building full-stack web and backend applications. Passionate abou
 
 ---
 
-### 📊 GitHub Activity
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nunofernandes2000&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nunofernandes2000&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **[Project 1](https://github.com/nunofernandes2000)** | Full-stack web application with role-based access control and RESTful APIs. | `Java` `Spring Boot` `MySQL` |
+| **[Project 2](https://github.com/nunofernandes2000)** | Scalable frontend client integrated with backend microservices. | `Angular` `Node.js` `REST` |
+| **[Project 3](https://github.com/nunofernandes2000)** | Low-level systems programming / automated utility scripts. | `C` `Linux` `Git` |
