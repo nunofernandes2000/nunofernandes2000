@@ -2,15 +2,15 @@
 
 **Computer Engineering Student & Full-Stack Developer**
 
-Final-year Computer Engineering student at Instituto Politécnico de Portalegre with experience in full-stack web and mobile development[cite: 1]. Passionate about software architecture, clean code, distributed systems, and modern web technologies.
+Final-year Computer Engineering student at Instituto Politécnico de Portalegre with experience in full-stack web and mobile development. Passionate about software architecture, clean code, distributed systems, and modern web technologies.
 
 ---
 
 ### 📌 About Me
-- 🎓 **Education:** Finalist in Computer Engineering (Licenciatura em Engenharia Informática) @ ESTGD - IPP[cite: 1]
-- 💼 **Experience:** Ex-Full-Stack Developer & IT Support Intern at **A MatosCar**[cite: 1]
-- 🛠️ **Focus Areas:** Full-Stack Development, Distributed Systems, Software Architecture & Mobile Apps[cite: 1]
-- 📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/nuno-fernandes-164910238/) • [Email](mailto:ticnunofernandes@gmail.com)[cite: 1]
+- 🎓 **Education:** Finalist in Computer Engineering (Licenciatura em Engenharia Informática) @ ESTGD - IPP
+- 💼 **Experience:** Ex-Full-Stack Developer & IT Support Intern at **A MatosCar**
+- 🛠️ **Focus Areas:** Full-Stack Development, Distributed Systems, Software Architecture & Mobile Apps
+- 📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/nuno-fernandes-164910238/) • [Email](mailto:ticnunofernandes@gmail.com)
 
 ---
 
@@ -53,8 +53,8 @@ Final-year Computer Engineering student at Instituto Politécnico de Portalegre 
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **Sistema de Gestão por Checkpoints** | Full-stack platform built with layered architecture (Domain, Services, REST), automated tests, and interactive React dashboards for academic tracking[cite: 1]. | `Java` `Spring Boot` `React` `JPA` `REST`[cite: 1] | [Backend](https://github.com/nunofernandes2000/spring) • [Frontend](https://github.com/nunofernandes2000/react) |
-| **Pac-Man 2D** | 2D arcade game recreation featuring custom OpenGL primitive rendering, input control, and real-time collision handling[cite: 1]. | `C/C++` `OpenGL` `FreeGLUT`[cite: 1] | [Code](https://github.com/nunofernandes2000/Paint) |
-| **Android School Gest** | Native Android mobile application for school administration (students, classes, subjects) with local SQLite data persistence[cite: 1]. | `Java` `Android SDK` `SQLite`[cite: 1] | [Code](https://github.com/nunofernandes2000/Android_School_Gest) |
-| **SOD Guess Game** | Distributed client-server multiplayer system implementing TCP/IP sockets, multithreaded connection handling, and state synchronization[cite: 1]. | `Java` `Sockets TCP/IP` `Multithreading`[cite: 1] | [Code](https://github.com/nunofernandes2000/SOD_GUESSGAME_PROJETO) |
-| **Censos App Android** | Native mobile survey application developed for field data collection, validation, and statistical analysis[cite: 1]. | `Java` `Android SDK` `SQLite`[cite: 1] | [Code](https://github.com/nunofernandes2000/Censos_App-Android-Studio) |
+| **Sistema de Gestão por Checkpoints** | Full-stack platform built with layered architecture (Domain, Services, REST), automated tests, and interactive React dashboards for academic tracking. | `Java` `Spring Boot` `React` `JPA` `REST` | [Backend](https://github.com/nunofernandes2000/spring) / [Frontend](https://github.com/nunofernandes2000/react) |
+| **Pac-Man 2D** | 2D arcade game recreation featuring custom OpenGL primitive rendering, input control, and real-time collision handling. | `C/C++` `OpenGL` `FreeGLUT` | [Code](https://github.com/nunofernandes2000/Paint) |
+| **Android School Gest** | Native Android mobile application for school administration (students, classes, subjects) with local SQLite data persistence. | `Java` `Android SDK` `SQLite` | [Code](https://github.com/nunofernandes2000/Android_School_Gest) |
+| **SOD Guess Game** | Distributed client-server multiplayer system implementing TCP/IP sockets, multithreaded connection handling, and state synchronization. | `Java` `Sockets TCP/IP` `Multithreading` | [Code](https://github.com/nunofernandes2000/SOD_GUESSGAME_PROJETO) |
+| **Censos App Android** | Native mobile survey application developed for field data collection, validation, and statistical analysis. | `Java` `Android SDK` `SQLite` | [Code](https://github.com/nunofernandes2000/Censos_App-Android-Studio) |
