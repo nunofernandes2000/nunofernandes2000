@@ -35,13 +35,15 @@ Final-year Computer Engineering student at Instituto Politécnico de Portalegre 
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Android SDK](https://img.shields.io/badge/Android_SDK-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 **Databases, DevOps & Tools**
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=flat-square&logo=Prisma&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -53,6 +55,7 @@ Final-year Computer Engineering student at Instituto Politécnico de Portalegre 
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
+| **IPP Mobile Dashboard** | Full-stack mobile platform and REST API for academic management featuring room timelines, pedagogical analytics, ticket tracking, and OAuth integration. | `React Native` `Node.js` `Prisma` `Tailwind CSS` `Docker` | [Backend](https://github.com/nunofernandes2000/mobile-dashboard-backend) / [App](https://github.com/nunofernandes2000/mobile-dashboard-app) |
 | **Sistema de Gestão por Checkpoints** | Full-stack platform built with layered architecture (Domain, Services, REST), automated tests, and interactive React dashboards for academic tracking. | `Java` `Spring Boot` `React` `JPA` `REST` | [Backend](https://github.com/nunofernandes2000/spring) / [Frontend](https://github.com/nunofernandes2000/react) |
 | **Pac-Man 2D** | 2D arcade game recreation featuring custom OpenGL primitive rendering, input control, and real-time collision handling. | `C/C++` `OpenGL` `FreeGLUT` | [Code](https://github.com/nunofernandes2000/PacMan-OPENGL-FreeGLut) |
 | **Android School Gest** | Native Android mobile application for school administration (students, classes, subjects) with local SQLite data persistence. | `Java` `Android SDK` `SQLite` | [Code](https://github.com/nunofernandes2000/Android_School_Gest) |
