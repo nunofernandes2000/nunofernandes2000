@@ -23,8 +23,8 @@ Final-year Computer Engineering student at Instituto Politécnico de Portalegre 
 ### 💻 Tech Stack
 
 **Languages**
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white)
@@ -57,7 +57,7 @@ Final-year Computer Engineering student at Instituto Politécnico de Portalegre 
 | :--- | :--- | :--- | :--- |
 | **IPP Mobile Dashboard** | Full-stack mobile platform and REST API for academic management featuring room timelines, pedagogical analytics, ticket tracking, and OAuth integration. | `React Native` `Node.js` `Prisma` `Tailwind CSS` `Docker` | [Backend](https://github.com/nunofernandes2000/mobile-dashboard-backend) / [App](https://github.com/nunofernandes2000/mobile-dashboard-app) |
 | **Sistema de Gestão por Checkpoints** | Full-stack platform built with layered architecture (Domain, Services, REST), automated tests, and interactive React dashboards for academic tracking. | `Java` `Spring Boot` `React` `JPA` `REST` | [Backend](https://github.com/nunofernandes2000/spring) / [Frontend](https://github.com/nunofernandes2000/react) |
-| **Pac-Man 2D** | 2D arcade game recreation featuring custom OpenGL primitive rendering, input control, and real-time collision handling. | `C/C++` `OpenGL` `FreeGLUT` | [Code](https://github.com/nunofernandes2000/PacMan-OPENGL-FreeGLut) |
+| **Pac-Man 3D** | 3D arcade game recreation developed with OpenGL and FreeGLUT, featuring file-based map loading, player movement, multiple ghost behaviors, scoring, camera controls, and real-time gameplay. | `C` `OpenGL` `FreeGLUT` | [Code](https://github.com/nunofernandes2000/PacMan-OPENGL-FreeGLut) |
 | **Android School Gest** | Native Android mobile application for school administration (students, classes, subjects) with local SQLite data persistence. | `Java` `Android SDK` `SQLite` | [Code](https://github.com/nunofernandes2000/Android_School_Gest) |
 | **SOD Guess Game** | Distributed client-server multiplayer system implementing TCP/IP sockets, multithreaded connection handling, and state synchronization. | `Java` `Sockets TCP/IP` `Multithreading` | [Code](https://github.com/nunofernandes2000/SOD_GUESSGAME_PROJETO) |
 | **Censos App Android** | Native mobile survey application developed for field data collection, validation, and statistical analysis. | `Java` `Android SDK` `SQLite` | [Code](https://github.com/nunofernandes2000/Censos_App-Android-Studio) |
