@@ -1,13 +1,13 @@
 # Hi, I'm Nuno Fernandes 👋
 
-**Computer Engineering Student & Full-Stack Developer**
+**Computer Engineer & Full-Stack Developer**
 
-Final-year Computer Engineering student at Instituto Politécnico de Portalegre with experience in full-stack web and mobile development. Passionate about software architecture, clean code, distributed systems, and modern web technologies.
+Computer Engineering graduate (Licenciado em Engenharia Informática) from Universidade Politécnica de Portalegre with experience in full-stack web and mobile development. Passionate about software architecture, clean code, distributed systems, and modern web technologies.
 
 ---
 
 ### 📌 About Me
-- 🎓 **Education:** Finalist in Computer Engineering (Licenciatura em Engenharia Informática) @ ESTGD - IPP
+- 🎓 **Education:** Degree in Computer Engineering (Licenciatura em Engenharia Informática) @ ESTGD - UPP
 - 💼 **Experience:** Ex-Full-Stack Developer & IT Support Intern at **A MatosCar**
 - 🛠️ **Focus Areas:** Full-Stack Development, Distributed Systems, Software Architecture & Mobile Apps
 - 📬 **Contact:** [LinkedIn](https://www.linkedin.com/in/nuno-fernandes-164910238/) • [Email](mailto:ticnunofernandes@gmail.com)
@@ -64,7 +64,7 @@ Final-year Computer Engineering student at Instituto Politécnico de Portalegre 
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **IPP Mobile Dashboard** | Full-stack mobile platform and REST API for academic management featuring room timelines, pedagogical analytics, ticket tracking, and OAuth integration. | `React Native` `Node.js` `Prisma` `Tailwind CSS` `Docker` | [Backend](https://github.com/nunofernandes2000/mobile-dashboard-backend) / [Frontend](https://github.com/nunofernandes2000/mobile-dashboard-app) |
+| **UPP Mobile Dashboard** | Full-stack mobile platform and REST API for academic management featuring room timelines, pedagogical analytics, ticket tracking, and OAuth integration. | `React Native` `Node.js` `Prisma` `Tailwind CSS` `Docker` | [Backend](https://github.com/nunofernandes2000/mobile-dashboard-backend) / [Frontend](https://github.com/nunofernandes2000/mobile-dashboard-app) |
 | **Sistema de Gestão por Checkpoints** | Full-stack platform built with layered architecture (Domain, Services, REST), automated tests, and interactive React dashboards for academic tracking. | `Java` `Spring Boot` `React` `JPA` `REST` | [Backend](https://github.com/nunofernandes2000/spring) / [Frontend](https://github.com/nunofernandes2000/react) |
 | **Pac-Man 3D** | 3D arcade game recreation developed with OpenGL and FreeGLUT, featuring file-based map loading, player movement, multiple ghost behaviors, scoring, camera controls, and real-time gameplay. | `C` `OpenGL` `FreeGLUT` | [Code](https://github.com/nunofernandes2000/PacMan-OPENGL-FreeGLut) |
 | **Android School Gest** | Native Android mobile application for school administration (students, classes, subjects) with local SQLite data persistence. | `Java` `Android SDK` `SQLite` | [Code](https://github.com/nunofernandes2000/Android_School_Gest) |
